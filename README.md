@@ -23,3 +23,7 @@
 
 
 ![weathermain](https://user-images.githubusercontent.com/46728564/146676050-55ceda9f-fd74-4d77-bd63-b0667cc4943e.png)
+
+
+### 프로젝트 상세 보기
+링크 : [https://qkeb700.github.io/projects/weather](https://qkeb700.github.io/projects/weather)
