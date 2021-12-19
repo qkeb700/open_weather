@@ -7,8 +7,8 @@
   <img src='https://img.shields.io/static/v1?label=Java&message=15&color=yellow'/>
   <img src='https://img.shields.io/static/v1?label=jQuery&message=.&color=green'/>
   <img src='https://img.shields.io/static/v1?label=Bootstrap&message=.&color=black'/>
-  <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
-  <img src='https://img.shields.io/static/v1?label=Tomcat&message=8.5&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=Ajax&message=.&color=lightgrey'/>
+  <img src='https://img.shields.io/static/v1?label=Open API&message=8.5&color=important'/>
 </p>
 
 ## 개발환경
