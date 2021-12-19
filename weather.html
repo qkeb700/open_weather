@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>weather</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="searchbox">
+        <i class="fas fa-search"></i>
+      </div>
+      <div class="weatherbox">
+        <div class="sunrise">
+          <label for=""><i class="wi wi-sunrise"></i></label>
+          <span class="sunrisein">07:00</span>
+        </div>
+        <div class="sunset">
+          <label for=""><i class="wi wi-sunset"></i></label>
+          <span class="sunsetin">18:00</span>
+        </div>
+        <div class="wind">
+          <label for=""><i class="wi wi-strong-wind"></i></label>
+          <span class="windin">2.1ms</span>
+        </div>
+        <div class="humidity">
+          <label for=""><i class="wi wi-humidity"></i></label>
+          <span class="humidityin">86%</span>
+        </div>
+      </div>
+    </header>
+    <div class="temp">
+      27<span><i class="wi wi-degrees"></i>C</span>
+    </div>
+    <h4 class="city text-center">Gimpo</h4>
+    <p class="description text-center">Haze</p>
+    <div class="temp-icon">
+      <i class="wi wi-cloudy"></i>
+    </div>
+    <div class="w-slider">
+      
+        
+        
+    </div>
+  </div>
+
+  <div class="search-nav">
+    <a class="close" href="#"><i class="fas fa-times"></i></a>
+    <!-- <form action="" name="form"> -->
+      <div class="form-group mt-50">
+        <label for="searchinput">도시명검색</label>
+        <input type="search" id="searchinput" class="form-control" placeholder="도시명">
+      </div>
+    <!-- </form> -->
+  </div>
+
+  <!-- <div class="loading">
+    <div class="spinner-border text-success"></div>
+  </div> -->
+  <script src="js/jquery-1.12.4.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="js/slick.js"></script>
+  <script src="js/weather.js"></script>
+</body>
+</html>
